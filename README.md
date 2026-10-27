@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Buckaroo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://buckaroo.eu/
+Buckaroo provides a comprehensive payment platform offering online, in‑store and omnichannel payment solutions. It supports a wide range of payment methods including iDEAL, credit cards and PayPal, and offers plugins for major e‑commerce platforms. The company also delivers subscription management, credit management, and financing services, targeting merchants seeking integrated payment and financial tools.
+
+**Areas:** Payments · Online Payments · In‑store Payments · Omnichannel · Credit Management · Subscription Management · Business Lending · Payment Terminals
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://buckaroo.eu/)
+- [Documentation](https://docs.buckaroo.io)
+- [Getting started](https://www.buckaroo.eu/online-payments)
+- [API reference](https://docs.buckaroo.io/reference)
+- [Pricing](https://www.buckaroo.eu/pricing)
+- [Support](https://www.buckaroo.eu/support)
+- [Blog](https://www.buckaroo.eu/news-inspiration)
+- [Security](https://www.buckaroo.nl/media/fwdj2uvv/responsible-disclosure-policy-eng.pdf)
+- [Terms of service](https://www.buckaroo.eu/terms-and-conditions)
+- [GitHub](https://github.com/buckaroo-it)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/buckaroo/](https://apis.io/providers/buckaroo/).
